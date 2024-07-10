@@ -18,28 +18,24 @@ Check out the live demo: [Cosmic Photo Explorer](https://your-demo-url.com)
 To run this project locally, follow these steps:
 
 0. **Clone the repository:**
-   ```bash
+    ```bash
    git clone https://github.com/ShirleyLe3/cosmic-photo-explorer.git
-   cd cosmic-photo-explorer
+   cd cosmic-photo-explorer```
 
 1. Install dependencies:
-bash
-```
-npm install```
+    ```bash npm install```
 
-2. Create a .env file in the root directory and add your NASA API key:
-env
-```
-REACT_APP_NASA_API_KEY=your_api_key_here```
+2. **Create a .env file in the root directory and add your NASA API key:**
+    ```env
+    REACT_APP_NASA_API_KEY=your_api_key_here```
 
-3. Start the development server:
-bash
-```npm start```
+3. **Start the development server:**
+    ```bash
+    npm start```
 
-4. Open your browser and navigate to:
-
-arduino
-```http://localhost:3000```
+4. **Open your browser and navigate to:**
+    ```arduino
+    http://localhost:3000```
 
 
 ## Usage
